@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<curso>
+    <alunos>
+        <aluno id="1234">
+            <nome>Fulano</nome>
+            <endereco>Rua fulanes da silva</endereco>
+            <email>fulano@gmail.com</email>
+            <curso_atual>XML</curso_atual>
+        </aluno>
+    </alunos>
+</curso>
