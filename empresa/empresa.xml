@@ -13,7 +13,7 @@
                     <d:nome>Rafael</d:nome>
                     <d:parentesco>Filho</d:parentesco>
                 </d:dependente>
-            </d:dependentes>
+            </d:dependentes>    
         </funcionario>
         <funcionario id="002">
             <nome>Felipe Silva</nome>

@@ -1,0 +1,12 @@
+<!--  ARQUIVO DE VERIFICAÇÃO DO FORMATO DO XML, VERICA EXATAMENTE A ORDEM ONDE CADA COISA DEVE SER POSICIONADA  
+<!ELEMENT empresa (funcionarios)>
+<!ELEMENT funcionarios (funcionario+)>
+<!ELEMENT funcionario (nome, cargo, (idade | data-nascimento), dependentes?)>
+<!ELEMENT nome (#PCDATA)>
+<!ELEMENT cargo (#PCDATA)>
+<!ELEMENT idade (#PCDATA)>
+<!ELEMENT data-nascimento (#PCDATA)>
+<!ELEMENT dependentes (#PCDATA)>
+<!ELEMENT dependente (#PCDATA)>
+<!ELEMENT parentesco (#PCDATA)>
+-->
